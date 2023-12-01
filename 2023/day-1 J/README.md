@@ -13,9 +13,11 @@ Vidu: [turneo.md](Turneo.md).
 
 ## Ruli
 
-- parto 1: `cat input.txt | $JCONSOLE_BIN_PATH main.ijs`.
-- parto 2: `cat input.txt | ./transform.zx.mjs | $JCONSOLE_BIN_PATH main.ijs`.
+- parto 1: `$JCONSOLE_BIN_PATH main.ijs < input.txt`.
+- parto 2: `./transform.zx.mjs < input.txt | $JCONSOLE_BIN_PATH main.ijs`.
 - ĝisdatigo 1 (2023/12/01):
   - en rust:
-    - parto 1: `cat input.txt | cargo +nightly -Zscript main.rs`
-    - parto 2: `cat input.txt | PART_2=1 cargo +nightly -Zscript main.rs`
+    - parto 1: `cargo +nightly -Zscript main.rs < input.txt`
+    - parto 2: `PART_2=1 cargo +nightly -Zscript main.rs < input.txt`
+- ĝisdatigo 2 (2023/12/01):
+  - parto 2 en J: `PART_2=1 $JCONSOLE_BIN_PATH main.ijs < input.txt`

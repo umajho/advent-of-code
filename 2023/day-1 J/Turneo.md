@@ -99,3 +99,13 @@ _cheatsheet_[^cheatsheet].
 
 Mi rezignis sovli la problemon sole per J. Mi skribis skripton en JavaScript
 (zx) transformante la enigon, kaj tiam pasigis la eligon al la programo en J.
+
+## Ĝisdatigo 2
+
+### Novaj sciaĵoj
+
+- `getenv/1`.
+- `-./1`: not.
+- `load 'regex'`, `rxrplc/2`. [^regex]
+
+[^regex]: https://code.jsoftware.com/wiki/Studio/Regular_Expressions

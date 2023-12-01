@@ -9,7 +9,7 @@ oportunon uzi tiajn lingvojn.
 
 [J]: https://www.jsoftware.com/
 
-Vidu: [turneo.md](turneo.md).
+Vidu: [turneo.md](Turneo.md).
 
 ## Ruli
 

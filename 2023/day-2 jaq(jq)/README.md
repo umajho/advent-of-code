@@ -16,9 +16,6 @@ Mi trovis jaq antaŭ tagoj el afiŝo sur HN[^afiŝo].
 ## Ruli
 
 > `JQ=jq` aŭ `JQ=jaq`.
->
-> `jaq` ne subtenas `$ENV` nuntempe, do oni bezonas anstataŭigi `$ENV.PART_2` en
-> la kodo kiel `true` aŭ `false` por uzi ĝin.
 
-- parto 1: `$JQ -n --raw-input -f main.jq < input.txt`
-- parto 1: `$JQ -n --raw-input -f main.jq < input.txt`
+- parto 1: `$JQ -n --raw-input -f main.jq --arg PART_2 0 < input.txt`
+- parto 1: `$JQ -n --raw-input -f main.jq --arg PART_2 1 < input.txt`

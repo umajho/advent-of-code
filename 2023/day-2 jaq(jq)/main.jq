@@ -34,7 +34,7 @@ def calculate_game_requirements:
   ];
 
 [ inputs | calculate_game_requirements ]
-  | if $ENV.PART_2 then
+  | if $PART_2 == "1" then
       map(.[1] | (.red * .green * .blue)) | add
     else
       map(select(.[1] | is_ok) | .[0]) | add

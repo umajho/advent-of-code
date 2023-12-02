@@ -19,3 +19,7 @@ Mi trovis jaq antaŭ tagoj el afiŝo sur HN[^afiŝo].
 
 - parto 1: `$JQ -n --raw-input -f main.jq --arg PART_2 0 < input.txt`
 - parto 1: `$JQ -n --raw-input -f main.jq --arg PART_2 1 < input.txt`
+- ĝisdatigo 1 (2023/12/02):
+  - en rust:
+    - parto 1: `cargo +nightly -Zscript main.rs < input.txt`
+    - parto 2: `PART_2=1 cargo +nightly -Zscript main.rs < input.txt`

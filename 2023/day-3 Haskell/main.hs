@@ -1,5 +1,5 @@
-import Data.Char (digitToInt, isDigit)
-import Data.Maybe (catMaybes, isJust, mapMaybe)
+import Data.Char (isDigit)
+import Data.Maybe (isJust, mapMaybe)
 import Data.Set qualified as Set
 import System.Environment (lookupEnv)
 

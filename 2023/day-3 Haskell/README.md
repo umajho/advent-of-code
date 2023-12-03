@@ -18,3 +18,7 @@ iujn legonte _[Learn Haskell in Y Mintues]_.
 
 - parto 1: `runhaskell main.hs < input.txt`
 - parto 2: `PART_2=1 runhaskell main.hs < input.txt`
+- ĝisdatigo 1 (2023/12/03):
+  - en rust:
+    - parto 1: `cargo +nightly -Zscript main.rs < input.txt`
+    - parto 2: `PART_2=1 cargo +nightly -Zscript main.rs < input.txt`

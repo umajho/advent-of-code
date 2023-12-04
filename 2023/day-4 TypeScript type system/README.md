@@ -4,10 +4,12 @@
 
 La ĉefa lingvo, kiun mi elektis hodiaŭ estas la tipo-sistemo de TypeScript.
 
-TODO
+Mi estas iom pigra, ke mi uzis ekstrajn pakojn (`ts-toolbelt` kaj
+`ts-arithmetic`) por iom da parto de laborojn.
 
 ## Ruli
 
-- antaŭnecesaĵo: TODO
-- parto 1: TODO
-- parto 2: TODO
+- antaŭnecesaĵo:
+  - `./transform-input.mjs < input.txt > input.d.ts`
+- parto 1: `./extract-type.mjs main-part-1.d.ts Result`
+- parto 2: `./extract-type.mjs main-part-2.d.ts Result`

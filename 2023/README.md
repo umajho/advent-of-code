@@ -14,13 +14,15 @@ Jen la signifo de la alta-skriboj malsupraj: `<A>.<B>`, kie:
   per tiu lingvo?
 - `<B>` = Kioma estas la solvo por la puzlo de tiu tago?
 
-| Tago | en pli-Ĝeneralaj Lingvoj           | en pli-Funkciaj Lingvoj                    | Alie                     |
-| ---- | ---------------------------------- | ------------------------------------------ | ------------------------ |
-| 1    | **Rust**<sup>0.2</sup>             |                                            | J<sup>0.1</sup>[^tabela] |
-| 2    | **Rust**<sup>0.2</sup>             | jaq(jq)<sup>0.1</sup>                      |                          |
-| 3    | **Rust**<sup>0.2</sup>             | Haskell<sup>0.1</sup>                      |                          |
-| 4    |                                    | **TypeScript** / type system<sup>0.1</sup> |                          |
-| 5    |                                    | Erlang<sup>0.1</sup>                       |                          |
-| 6    | **Python 3** / NumPy<sup>0.1</sup> |                                            |                          |
+| Tago | en pli-Ĝeneralaj Lingvoj           | en pli-Funkciaj Lingvoj                    | Alie                         |
+| ---- | ---------------------------------- | ------------------------------------------ | ---------------------------- |
+| 1    | **Rust**<sup>0.2</sup>             |                                            | J<sup>0.1</sup>[^tabela]     |
+| 2    | **Rust**<sup>0.2</sup>             | jaq(jq)<sup>0.1</sup>                      |                              |
+| 3    | **Rust**<sup>0.2</sup>             | Haskell<sup>0.1</sup>                      |                              |
+| 4    |                                    | **TypeScript** / type system<sup>0.1</sup> |                              |
+| 5    |                                    | Erlang<sup>0.1</sup>                       |                              |
+| 6    | **Python 3** / NumPy<sup>0.1</sup> |                                            | Factor<sup>0.2</sup>[^staka] |
 
 [^tabela]: (Tabela)
+
+[^staka]: (Staka)

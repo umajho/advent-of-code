@@ -2,3 +2,6 @@
 # Mi ne certas ĉu oni estas permesata redistribui tiujn.
 input.txt
 input-*.txt
+
+# ŝajnas, ke idris 2 lsp generas ĉi tiun.
+/build

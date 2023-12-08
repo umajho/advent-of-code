@@ -23,6 +23,7 @@ Jen la signifo de la alta-skriboj malsupraj: `<A>.<B>`, kie:
 | 5    |                                    | Erlang<sup>0.1</sup>                       |                              |
 | 6    | **Python 3** / NumPy<sup>0.1</sup> |                                            | Factor<sup>0.2</sup>[^staka] |
 | 7    |                                    | Idris 2<sup>0.1</sup>                      |                              |
+| 8    | ReasonML<sup>0.1</sup>             |                                            |                              |
 
 [^tabela]: (Tabela)
 

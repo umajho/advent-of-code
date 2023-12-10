@@ -24,7 +24,12 @@ Jen la signifo de la alta-skriboj malsupraj: `<A>.<B>`, kie:
 | 6    | **Python 3** / NumPy<sup>0.1</sup> |                                            | Factor<sup>0.2</sup>[^staka] |
 | 7    |                                    | Idris 2<sup>0.1</sup>                      |                              |
 | 8    | ReasonML<sup>0.1</sup>             |                                            |                              |
+| 9    |                                    |                                            | Io<sup>1.1</sup>[^prototipa] |
 
 [^tabela]: (Tabela)
 
 [^staka]: (Staka)
+
+[^prototipa]: (Prototip-bazita); Notu: Skribante modernan JavaScript, mi ne uzas
+prototipojn senpere, kaj mi neniam bezonis zorgi pri tio. Mi triktas prototipojn
+nur kiel detaloj de realigado. Do, mi ne konsideras min kutimi al tio.

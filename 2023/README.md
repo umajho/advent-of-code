@@ -25,6 +25,7 @@ Jen la signifo de la alta-skriboj malsupraj: `<A>.<B>`, kie:
 | 7    |                                    | Idris 2<sup>0.1</sup>                      |                              |
 | 8    | ReasonML<sup>0.1</sup>             |                                            |                              |
 | 9    |                                    |                                            | Io<sup>1.1</sup>[^prototipa] |
+| 10   |                                    | Steel(Scheme)<sup>1.1</sup>                |                              |
 
 [^tabela]: (Tabela)
 

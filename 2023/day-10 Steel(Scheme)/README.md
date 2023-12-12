@@ -21,8 +21,8 @@ Legaĵoj:
 
 - antaŭnecesaĵo:
   - `cargo install steel-interpreter`[^antaŭnecesaĵo]
-- parto 1: TODO
-- parto 2: TODO
+- parto 1: `steel main.scm < input.txt`
+- parto 2: `PART_2=1 steel main.scm < input.txt`
 
 [^antaŭnecesaĵo]: fakte: `git clone https://github.com/mattwparas/steel`,
 `cd steel`, kaj tiam `cargo install --path .`.
